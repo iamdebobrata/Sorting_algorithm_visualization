@@ -1,4 +1,5 @@
 Sorting Algorithm Visualization
+
 This Python program utilizes the Pygame library to visually demonstrate two sorting algorithms: Bubble Sort and Insertion Sort. The program generates a random list of integers and allows the user to observe the sorting process in real-time.
 
 Getting Started::
